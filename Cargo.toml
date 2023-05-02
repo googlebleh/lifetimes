@@ -2,6 +2,7 @@
 name = "lifetimes"
 version = "0.1.0"
 edition = "2021"
+default-run = "lifetimes"
 
 [[bin]]
 name = "fetch_data"
